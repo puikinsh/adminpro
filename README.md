@@ -1,8 +1,6 @@
-# adminpro
-Free Bootstrap admin dashboard template
 
 # AdminPro
-Free Bootstrap admin dashboard
+Free Bootstrap admin dashboard with several unique demo variations.
 
 # Preview
 
